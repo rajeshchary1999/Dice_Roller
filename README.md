@@ -1,1 +1,1 @@
-#  Roll Dicer
+#  Dice Roll Simulator
